@@ -1,4 +1,4 @@
-#Spam Detection Lab
+Spam Detection Lab
 
 This folder contains the python code for Lab 1, where I created a machine learning model in the form
 of a logistic regression classifier used for spam email detection. It processes a csv file containing
