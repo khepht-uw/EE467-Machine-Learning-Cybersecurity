@@ -1,1 +1,5 @@
+EE 467 Lab 4: Autoencoder and ClusteringUnsupervised machine learning lab
+exploring dimensionality reduction and clustering techniques on network intrusion data.
 
+Uses the preprocessed kddcup dataset, which has millions of network connections
+labelled as normal or malicious, with 4 different attack types (Dos, R2L, U2R, and Probing)
